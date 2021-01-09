@@ -1,0 +1,12 @@
+{
+  "name": "nativRedux101",
+  "displayName": "nativRedux101",
+  "expo": {
+    "name": "nativRedux101",
+    "slug": "nativRedux101",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
