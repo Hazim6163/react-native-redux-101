@@ -1,0 +1,2 @@
+# summray 
+at the end i find it's easy to use redux with react-native this can be use as a template and when you need to add components or access the new model from data you need to create just the slice like counter slice file and you can see how to use it from the counter component but at the first you need to create the store and then everything will be fine.
